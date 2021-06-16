@@ -116,7 +116,7 @@ function animateAll() {
 
 			let elScene = new ScrollMagic.Scene({
 				triggerElement: element.closest(".about-nums"),
-				offset: -200,
+				offset: -350,
 				reverse: false
 			})
 				.setTween(elTween)
