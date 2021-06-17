@@ -2446,6 +2446,8 @@ header:before {
   h1,
   .h1 {
     font-size: 42px; }
+  .about-num-num {
+    font-size: 55px; }
   .section-top-pics {
     height: 274px; }
   .section-top-pic-1 {
@@ -2725,7 +2727,7 @@ header:before {
   .about-nums {
     margin: 39px 0 0 0; }
   .about-num-num {
-    font-size: 40px;
+    font-size: 38px;
     line-height: 40px;
     margin: 0 0 3px 0; }
   .about-num-ttl {
@@ -3802,7 +3804,8 @@ header:before {
     height: auto;
     width: 1px;
     right: auto;
-    bottom: 0; }
+    bottom: 0;
+    background: linear-gradient(180deg, #FF538D 0%, #5370FF 52.01%, #58E77D 104.26%); }
   .about-nums .col {
     -ms-flex: 0 0 100%;
     flex: 0 0 100%;
